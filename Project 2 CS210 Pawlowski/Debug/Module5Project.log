@@ -1,0 +1,9 @@
+﻿  Banking.cpp
+  Main.cpp
+U:\Users\tabithapawlow_snhu\source\repos\Module5Project\Module5Project\Main.cpp(126,4): warning C4551: function call missing argument list
+U:\Users\tabithapawlow_snhu\source\repos\Module5Project\Module5Project\Main.cpp(140,9): warning C4101: 'Interest': unreferenced local variable
+U:\Users\tabithapawlow_snhu\source\repos\Module5Project\Module5Project\Main.cpp(139,9): warning C4101: 'monthlyDeposited': unreferenced local variable
+U:\Users\tabithapawlow_snhu\source\repos\Module5Project\Module5Project\Main.cpp(138,9): warning C4101: 'startingAmount': unreferenced local variable
+U:\Users\tabithapawlow_snhu\source\repos\Module5Project\Module5Project\Main.cpp(141,6): warning C4101: 'years': unreferenced local variable
+  Generating Code...
+  Module5Project.vcxproj -> U:\Users\tabithapawlow_snhu\source\repos\Module5Project\Debug\Module5Project.exe
